@@ -1,5 +1,5 @@
 public class Ma2emeClasse{
-  public String ordre(){
+  public int ordre(){
     return 2;
   }
 }
